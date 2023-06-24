@@ -1,5 +1,5 @@
 # Who's Ihsan?
-`$` I'm a full-stack software engineer and web developer, I have extensive experience working with various technologies, including Java Spring, React.js, and TypeScript. I have built several web applications using these technologies, and I'm comfortable working on both the front-end and back-end parts of the stack.
+I'm a software developer, I have extensive experience working with various technologies, including Java Spring, React.js, and TypeScript. I have built several web applications using these technologies, and I'm comfortable working on both the front-end and back-end parts of the stack.
 
 ## Languages
 
