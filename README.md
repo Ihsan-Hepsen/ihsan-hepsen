@@ -24,9 +24,9 @@ I'm a software engineer, I have experience working with various technologies, in
 ## Projects
 Here are some project highlights:
 
+- [AI-powered Chrome Extension](https://github.com/Ihsan-Hepsen/AI-Article-Assistant)
+- [URL Shortener](https://github.com/Ihsan-Hepsen/URL-Shortener)
 - [Bake Me a Cake Backend](https://github.com/Ihsan-Hepsen/Bake-Me-a-Cake-Backend)
-- [Bake Me a Cake Frontend with React](https://github.com/Ihsan-Hepsen/Bake-Me-a-Cake-Backend)
-- [Aviato](https://github.com/Ihsan-Hepsen/Aviato-Improved)
-- [SafeSpot](https://github.com/Ihsan-Hepsen/SafeSpot)
+- [Bake Me a Cake Frontend with React](https://github.com/Ihsan-Hepsen/Bake-Me-a-Cake-Frontend)
 - [Transfer Learning Tutorial](https://github.com/Ihsan-Hepsen/Transfer-Learning)
 
