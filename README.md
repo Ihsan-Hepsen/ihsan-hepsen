@@ -1,5 +1,5 @@
 # About me
-I'm a software engineer, I have experience working with various technologies, including Java Spring, React.js, and TypeScript. I have built several web applications using these technologies, and I'm more focused on the backend.
+I'm a software engineer, I have experience working with various technologies, including Java Spring, React.js, and TypeScript. I have built several web applications using these technologies.
 
 
 ## Projects
