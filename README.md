@@ -8,8 +8,6 @@ Here are some project highlights:
 - [AI-powered Chrome Extension](https://github.com/Ihsan-Hepsen/AI-Article-Assistant)
 - [URL Shortener](https://github.com/Ihsan-Hepsen/URL-Shortener)
 - [Snake Game in Terminal](https://github.com/Ihsan-Hepsen/Snake-Game)
-- [Bake Me a Cake Backend](https://github.com/Ihsan-Hepsen/Bake-Me-a-Cake-Backend)
-- [Bake Me a Cake Frontend with React](https://github.com/Ihsan-Hepsen/Bake-Me-a-Cake-Frontend)
 - [Transfer Learning Tutorial](https://github.com/Ihsan-Hepsen/Transfer-Learning)
 
 
