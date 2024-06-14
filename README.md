@@ -28,4 +28,3 @@ Here are some project highlights:
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-000?style=flat&logo=google-cloud&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=2496ED)
 ![Bash](https://img.shields.io/badge/-Bash-000?style=flat&logo=gnu-bash&logoColor=4EAA25)
-
