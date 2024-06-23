@@ -3,7 +3,6 @@ I'm a software engineer, I have experience working with various technologies, in
 
 
 ## Projects
-Here are some project highlights:
 
 - [AI-powered Chrome Extension](https://github.com/Ihsan-Hepsen/AI-Article-Assistant)
 - [URL Shortener](https://github.com/Ihsan-Hepsen/URL-Shortener)
