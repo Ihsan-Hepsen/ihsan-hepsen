@@ -1,5 +1,5 @@
 # About me
-I'm a backend-oriented software engineer 👋
+I'm a backend-focused software engineer 👋
 
 ## Projects
 
