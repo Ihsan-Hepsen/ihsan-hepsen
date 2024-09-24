@@ -1,6 +1,5 @@
 # About me
-I'm a software engineer, I have experience working with various technologies, including Java Spring, React.js, and TypeScript.
-
+I'm a backend-oriented software engineer 👋
 
 ## Projects
 
