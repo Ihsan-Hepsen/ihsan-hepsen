@@ -1,13 +1,6 @@
 # About me
 I'm a backend-focused software engineer 👋
 
-## Projects
-
-- [AI-powered Chrome Extension](https://github.com/Ihsan-Hepsen/AI-Article-Assistant)
-- [URL Shortener](https://github.com/Ihsan-Hepsen/URL-Shortener)
-- [Snake Game in Terminal](https://github.com/Ihsan-Hepsen/Snake-Game)
-- [Transfer Learning Tutorial](https://github.com/Ihsan-Hepsen/Transfer-Learning)
-
 
 ## Languages
 
