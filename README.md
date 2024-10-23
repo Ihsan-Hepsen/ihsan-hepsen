@@ -1,5 +1,5 @@
 # About me
-I'm a backend-focused software engineer 👋
+Backend-focused full-stack software engineer 👋
 
 
 ## Languages
