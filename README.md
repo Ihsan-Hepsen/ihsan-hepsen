@@ -9,6 +9,7 @@ Backend-focused full-stack software engineer 👋
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 
