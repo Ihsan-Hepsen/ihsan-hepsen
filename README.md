@@ -1,5 +1,7 @@
 # About me
 Backend-focused full-stack software engineer 👋
+- building [vibio.co](https://vibio.co), video-first link in bio
+- [Check out my Vibio page](https://vibio.co/isot)
 
 
 ## Languages
