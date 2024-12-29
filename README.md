@@ -1,5 +1,5 @@
 # About me
-**Backend-focused full-stack software engineer 👋**
+**Backend-focused full-stack software engineer**
 * Here are some cool stuff I built:
   - [AI Article Assistant](https://chromewebstore.google.com/detail/ai-article-assistant/bhhfcjpcjfoellpajoicfnflaecnmeba): Chrome Extension
     - Summarize, bulletize, and elaborate any selected text with GPT-4 without leaving your tab
