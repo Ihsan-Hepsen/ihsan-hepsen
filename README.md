@@ -4,7 +4,6 @@
     - digital “happiness wall” app, inspired by the physical happiness wall with post-it notes
     - join the waitlist to get notified on launch
   - [Vibio](https://vibio.co): link in bio tool
-    - video integrated link-in-bio
     - the link-in-bio designed to tell your story
     - 200+ content creators on board 🚀
   - [AI Article Assistant](https://chromewebstore.google.com/detail/ai-article-assistant/bhhfcjpcjfoellpajoicfnflaecnmeba): Chrome Extension
