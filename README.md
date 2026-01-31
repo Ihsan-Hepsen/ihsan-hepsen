@@ -5,7 +5,7 @@
     - download Grace on App Store
   - [Vibio](https://vibio.co): link in bio tool
     - the link-in-bio designed to tell your story
-    - 200+ content creators on board 🚀
+    - 250+ content creators on board 🚀
   - [AI Article Assistant](https://chromewebstore.google.com/detail/ai-article-assistant/bhhfcjpcjfoellpajoicfnflaecnmeba): Chrome Extension
     - Summarize, bulletize, and elaborate any selected text with GPT-4 without leaving your tab
     - 150+ downloads 📦🚀
