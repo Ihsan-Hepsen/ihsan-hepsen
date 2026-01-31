@@ -1,8 +1,8 @@
 **Backend-heavy full-stack software engineer**
 * Here are some cool stuff I built:
-  - [Grace](https://grace-wall-of-joy.lovable.app/): ios app (coming soon)
+  - [Grace]([https://grace-wall-of-joy.lovable.app/](https://apps.apple.com/us/app/grace-happiness-wall/id6757810428)): ios app
     - digital “happiness wall” app, inspired by the physical happiness wall with post-it notes
-    - join the waitlist to get notified on launch
+    - download Grace on App Store
   - [Vibio](https://vibio.co): link in bio tool
     - the link-in-bio designed to tell your story
     - 200+ content creators on board 🚀
